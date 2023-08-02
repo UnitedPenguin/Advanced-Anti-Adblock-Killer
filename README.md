@@ -1,6 +1,6 @@
 # Advanced Anti-Adblock Killer
 
-A browser script that attempts to stop websites from detecting ad-blockers.
+A browser script that attempts to stop websites from detecting ad-blockers. This script can and will break websites, use it only when your own ad blocker does not bypass a site!
 
 ## Description
 
@@ -35,7 +35,7 @@ This script is intended to be used as a userscript and requires a userscript man
 
 ## Limitations
 
-This script can't block ads or detect adblock detection scripts at the network level. It can only interact with the page content (HTML, CSS, and JavaScript). For comprehensive ad-blocking and privacy protection, you should still consider using a dedicated browser extension along with this script.
+This script can't block ads or detect adblock detection scripts at the network level. It can only interact with the page content (HTML, CSS, and JavaScript). For comprehensive ad-blocking and privacy protection, you should still consider using a dedicated browser extension along with this script. This script can and will break websites, use it only when your own ad blocker does not bypass a site!
 
 ## Contributing
 
