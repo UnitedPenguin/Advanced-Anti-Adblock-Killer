@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.0
 // @description  Attempts to stop websites from detecting ad-blockers
-// @author       Your Name
+// @author       UnitedPenguin 
 // @match        *://*/*
 // @grant        GM_addStyle
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
